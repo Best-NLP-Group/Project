@@ -1,0 +1,1239 @@
+{
+    "Boh": {
+        "expansion": "Bohemia",
+        "country": "Austria",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Mun",
+            "Tyr",
+            "Vie",
+            "Sil",
+            "Gal"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "None"
+    },
+    "Pie": {
+        "expansion": "Piedmont",
+        "country": "Italy",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "Mar",
+            "Tyr",
+            "LYO",
+            "Ven",
+            "Tus"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "France",
+        "unitType": "None",
+        "currentControl": "France"
+    },
+    "Bud": {
+        "expansion": "Budapest",
+        "country": "Austria",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Vie",
+            "Gal",
+            "Rum",
+            "Ser",
+            "Tri"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Austria",
+        "unitType": "None",
+        "currentControl": "Austria"
+    },
+    "MAO": {
+        "expansion": "MidAtlanticOcean",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "NAO",
+            "IRI",
+            "ENG",
+            "Bre",
+            "Gas",
+            "Spa",
+            "Por",
+            "WES",
+            "Naf"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "France"
+    },
+    "Pru": {
+        "expansion": "Prussia",
+        "country": "Germany",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "BAL",
+            "Lvn",
+            "War",
+            "Sil",
+            "Ber"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Germany",
+        "unitType": "None",
+        "currentControl": "Germany"
+    },
+    "Rum": {
+        "expansion": "Rumania",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "BLA",
+            "Bul",
+            "Ser",
+            "Bud",
+            "Gal",
+            "Ukr",
+            "Sev"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Austria",
+        "unitType": "A",
+        "currentControl": "Austria"
+    },
+    "Nwy": {
+        "expansion": "Norway",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "NWG",
+            "NTH",
+            "Swe",
+            "Fin",
+            "SKA",
+            "BAR",
+            "Stp"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Germany",
+        "unitType": "A",
+        "currentControl": "Germany"
+    },
+    "Apu": {
+        "expansion": "Apulia",
+        "country": "Italy",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "ADR",
+            "ION",
+            "Nap",
+            "Rom",
+            "Ven"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "France"
+    },
+    "Naf": {
+        "expansion": "NorthAfrica",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "MAO",
+            "WES",
+            "Tun"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "None"
+    },
+    "Wal": {
+        "expansion": "Wales",
+        "country": "England",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "IRI",
+            "ENG",
+            "Lon",
+            "Yor",
+            "Lvp"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "France"
+    },
+    "Bur": {
+        "expansion": "Burgundy",
+        "country": "France",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Par",
+            "Pic",
+            "Bel",
+            "Ruh",
+            "Mun",
+            "Mar",
+            "Gas"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "Germany"
+    },
+    "Den": {
+        "expansion": "Denmark",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "BAL",
+            "SKA",
+            "HEL",
+            "Kie",
+            "NTH",
+            "Swe"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Germany",
+        "unitType": "None",
+        "currentControl": "Germany"
+    },
+    "AEG": {
+        "expansion": "AegeanSea",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Gre",
+            "Bul",
+            "Con",
+            "Smy",
+            "EAS",
+            "ION"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Turkey",
+        "unitType": "F",
+        "currentControl": "Turkey"
+    },
+    "Cly": {
+        "expansion": "Clyde",
+        "country": "England",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "NAO",
+            "NWG",
+            "Edi",
+            "Lvp"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "None"
+    },
+    "LYO": {
+        "expansion": "GulfOfLyon",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Mar",
+            "Pie",
+            "Tus",
+            "TYS",
+            "WES",
+            "Spa"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "France",
+        "unitType": "None",
+        "currentControl": "France"
+    },
+    "War": {
+        "expansion": "Warsaw",
+        "country": "Russia",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Pru",
+            "Lvn",
+            "Mos",
+            "Ukr",
+            "Gal",
+            "Sil"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Germany",
+        "unitType": "A",
+        "currentControl": "Germany"
+    },
+    "HEL": {
+        "expansion": "HeligolandBight",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Den",
+            "Kie",
+            "Hol",
+            "NTH"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Germany",
+        "unitType": "A",
+        "currentControl": "Germany"
+    },
+    "Par": {
+        "expansion": "Paris",
+        "country": "France",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Bre",
+            "Pic",
+            "Bur",
+            "Gas"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Germany",
+        "unitType": "A",
+        "currentControl": "Germany"
+    },
+    "Stp": {
+        "expansion": "StPetersburg",
+        "country": "Russia",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "BAR",
+            "Mos",
+            "Lvn",
+            "BOT",
+            "Fin",
+            "Nwy"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Germany",
+        "unitType": "A",
+        "currentControl": "Germany"
+    },
+    "Syr": {
+        "expansion": "Syria",
+        "country": "Turkey",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "Arm",
+            "Smy",
+            "EAS"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "None"
+    },
+    "Lvp": {
+        "expansion": "Liverpool",
+        "country": "England",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "NAO",
+            "IRI",
+            "Cly",
+            "Edi",
+            "Yor",
+            "Wal"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "England",
+        "unitType": "A",
+        "currentControl": "England"
+    },
+    "SKA": {
+        "expansion": "Skagerrak",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Nwy",
+            "Swe",
+            "Den",
+            "NTH"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "England",
+        "unitType": "F",
+        "currentControl": "England"
+    },
+    "Spa": {
+        "expansion": "Spain",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "Por",
+            "MAO",
+            "Gas",
+            "LYO",
+            "WES",
+            "Mar"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "France",
+        "unitType": "F",
+        "currentControl": "France"
+    },
+    "Por": {
+        "expansion": "Portugal",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "MAO",
+            "Spa"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "France",
+        "unitType": "None",
+        "currentControl": "France"
+    },
+    "Con": {
+        "expansion": "Constantinople",
+        "country": "Turkey",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "BLA",
+            "Ank",
+            "Smy",
+            "Bul",
+            "AEG"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Turkey",
+        "unitType": "None",
+        "currentControl": "Turkey"
+    },
+    "Lvn": {
+        "expansion": "Livonia",
+        "country": "Russia",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "BAL",
+            "BOT",
+            "Stp",
+            "Mos",
+            "War",
+            "Pru"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Russia",
+        "unitType": "None",
+        "currentControl": "Germany"
+    },
+    "Gal": {
+        "expansion": "Galicia",
+        "country": "Austria",
+        "provinceType": "Inland",
+        "adjacency": [
+            "War",
+            "Sil",
+            "Ukr",
+            "Rum",
+            "Bud",
+            "Vie",
+            "Boh"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Russia",
+        "unitType": "None",
+        "currentControl": "Austria"
+    },
+    "Bul": {
+        "expansion": "Bulgaria",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "Rum",
+            "BLA",
+            "Con",
+            "AEG",
+            "Gre",
+            "Ser"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Turkey",
+        "unitType": "A",
+        "currentControl": "Turkey"
+    },
+    "ADR": {
+        "expansion": "AdriaticSea",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Tri",
+            "Ven",
+            "Apu",
+            "Alb",
+            "ION"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "None"
+    },
+    "WES": {
+        "expansion": "WesternMediterranean",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Naf",
+            "MAO",
+            "LYO",
+            "Spa",
+            "Tun",
+            "TYS"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Italy",
+        "unitType": "F",
+        "currentControl": "Italy"
+    },
+    "Mun": {
+        "expansion": "Munich",
+        "country": "Germany",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Ruh",
+            "Kie",
+            "Ber",
+            "Sil",
+            "Boh",
+            "Tyr",
+            "Bur"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Germany",
+        "unitType": "A",
+        "currentControl": "Germany"
+    },
+    "NAO": {
+        "expansion": "NorthAtlanticOcean",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "NWG",
+            "Cly",
+            "Lvp",
+            "IRI",
+            "MAO"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "None"
+    },
+    "BAL": {
+        "expansion": "BalticSea",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Swe",
+            "BOT",
+            "Lvn",
+            "Pru",
+            "Ber",
+            "Kie",
+            "Den"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Germany",
+        "unitType": "None",
+        "currentControl": "Germany"
+    },
+    "Tus": {
+        "expansion": "Tuscany",
+        "country": "Italy",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "LYO",
+            "Pie",
+            "Ven",
+            "Rom",
+            "TYS"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Italy",
+        "unitType": "F",
+        "currentControl": "Italy"
+    },
+    "Rom": {
+        "expansion": "Rome",
+        "country": "Italy",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "TYS",
+            "Nap",
+            "Tus",
+            "Ven",
+            "Apu"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Italy",
+        "unitType": "A",
+        "currentControl": "Italy"
+    },
+    "Yor": {
+        "expansion": "Yorkshire",
+        "country": "England",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "Lvp",
+            "Edi",
+            "Lon",
+            "Wal",
+            "NTH"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "France",
+        "unitType": "A",
+        "currentControl": "France"
+    },
+    "Pic": {
+        "expansion": "Picardy",
+        "country": "France",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "ENG",
+            "Bel",
+            "Bur",
+            "Par",
+            "Bre"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "France",
+        "unitType": "None",
+        "currentControl": "France"
+    },
+    "NTH": {
+        "expansion": "NorthSea",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "NWG",
+            "SKA",
+            "Den",
+            "HEL",
+            "Hol",
+            "Bel",
+            "ENG",
+            "Lon",
+            "Yor",
+            "Edi",
+            "Nwy"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Germany",
+        "unitType": "F",
+        "currentControl": "Germany"
+    },
+    "ION": {
+        "expansion": "IonianSea",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Tun",
+            "TYS",
+            "Nap",
+            "Apu",
+            "ADR",
+            "Gre",
+            "Alb",
+            "AEG",
+            "EAS"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Austria",
+        "unitType": "F",
+        "currentControl": "Austria"
+    },
+    "Nap": {
+        "expansion": "Naples",
+        "country": "Italy",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "ION",
+            "TYS",
+            "Apu",
+            "Rom"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Italy",
+        "unitType": "None",
+        "currentControl": "Italy"
+    },
+    "Gas": {
+        "expansion": "Gascony",
+        "country": "France",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "MAO",
+            "Spa",
+            "Bre",
+            "Par",
+            "Bur",
+            "Mar"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "France"
+    },
+    "Tyr": {
+        "expansion": "Tyrolia",
+        "country": "Austria",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Pie",
+            "Mun",
+            "Boh",
+            "Vie",
+            "Tri",
+            "Ven"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "France",
+        "unitType": "A",
+        "currentControl": "France"
+    },
+    "Sev": {
+        "expansion": "Sevastopol",
+        "country": "Russia",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "Arm",
+            "BLA",
+            "Rum",
+            "Ukr",
+            "Mos"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Austria",
+        "unitType": "A",
+        "currentControl": "Austria"
+    },
+    "Tun": {
+        "expansion": "Tunis",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "Naf",
+            "WES",
+            "ION",
+            "TYS"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Italy",
+        "unitType": "F",
+        "currentControl": "Italy"
+    },
+    "BAR": {
+        "expansion": "BarentsSea",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Stp",
+            "Nwy",
+            "NWG"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "None"
+    },
+    "Vie": {
+        "expansion": "Vienna",
+        "country": "Austria",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Tri",
+            "Tyr",
+            "Boh",
+            "Gal",
+            "Bud"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Austria",
+        "unitType": "A",
+        "currentControl": "Austria"
+    },
+    "TYS": {
+        "expansion": "TyrrhenianSea",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "LYO",
+            "WES",
+            "Tun",
+            "Tus",
+            "Rom",
+            "Nap",
+            "ION"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Italy",
+        "unitType": "None",
+        "currentControl": "Italy"
+    },
+    "Tri": {
+        "expansion": "Trieste",
+        "country": "Austria",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "ADR",
+            "Ven",
+            "Tyr",
+            "Vie",
+            "Bud",
+            "Ser",
+            "Alb"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Austria",
+        "unitType": "None",
+        "currentControl": "Austria"
+    },
+    "Ruh": {
+        "expansion": "Ruhr",
+        "country": "Germany",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Bel",
+            "Hol",
+            "Kie",
+            "Mun",
+            "Bur"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "Germany"
+    },
+    "Sil": {
+        "expansion": "Silesia",
+        "country": "Germany",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Mun",
+            "Ber",
+            "Pru",
+            "War",
+            "Gal",
+            "Boh"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Germany",
+        "unitType": "None",
+        "currentControl": "Germany"
+    },
+    "Ser": {
+        "expansion": "Serbia",
+        "country": "None",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Tri",
+            "Bud",
+            "Rum",
+            "Bul",
+            "Gre",
+            "Alb"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Austria",
+        "unitType": "A",
+        "currentControl": "Austria"
+    },
+    "Lon": {
+        "expansion": "London",
+        "country": "England",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "NTH",
+            "ENG",
+            "Wal",
+            "Yor"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "France",
+        "unitType": "None",
+        "currentControl": "France"
+    },
+    "Gre": {
+        "expansion": "Greece",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "ION",
+            "AEG",
+            "Alb",
+            "Ser",
+            "Bul"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Turkey",
+        "unitType": "F",
+        "currentControl": "Turkey"
+    },
+    "Bre": {
+        "expansion": "Brest",
+        "country": "France",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "ENG",
+            "MAO",
+            "Pic",
+            "Par",
+            "Gas"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "France",
+        "unitType": "F",
+        "currentControl": "France"
+    },
+    "Swe": {
+        "expansion": "Sweden",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "BOT",
+            "Fin",
+            "Nwy",
+            "BAL",
+            "SKA",
+            "Den"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Germany",
+        "unitType": "None",
+        "currentControl": "Germany"
+    },
+    "Ank": {
+        "expansion": "Ankara",
+        "country": "Turkey",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "BLA",
+            "Arm",
+            "Smy",
+            "Con"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Turkey",
+        "unitType": "None",
+        "currentControl": "Turkey"
+    },
+    "Mar": {
+        "expansion": "Marseilles",
+        "country": "France",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "LYO",
+            "Spa",
+            "Gas",
+            "Bur",
+            "Pie"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "France",
+        "unitType": "F",
+        "currentControl": "France"
+    },
+    "Bel": {
+        "expansion": "Belgium",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "Hol",
+            "Ruh",
+            "Bur",
+            "Pic",
+            "ENG",
+            "NTH"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Germany",
+        "unitType": "F",
+        "currentControl": "Germany"
+    },
+    "BLA": {
+        "expansion": "BlackSea",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Sev",
+            "Arm",
+            "Ank",
+            "Con",
+            "Bul",
+            "Rum"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Turkey",
+        "unitType": "F",
+        "currentControl": "Turkey"
+    },
+    "BOT": {
+        "expansion": "GulfOfBothnia",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Swe",
+            "Fin",
+            "Lvn",
+            "Stp",
+            "BAL"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Russia",
+        "unitType": "F",
+        "currentControl": "Russia"
+    },
+    "Ber": {
+        "expansion": "Berlin",
+        "country": "Germany",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "BAL",
+            "Pru",
+            "Sil",
+            "Mun",
+            "Kie"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Germany",
+        "unitType": "A",
+        "currentControl": "Germany"
+    },
+    "Edi": {
+        "expansion": "Edinburgh",
+        "country": "England",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "Cly",
+            "NWG",
+            "NTH",
+            "Yor",
+            "Lvp"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "England",
+        "unitType": "F",
+        "currentControl": "England"
+    },
+    "ENG": {
+        "expansion": "EnglishChannel",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Lon",
+            "Bel",
+            "Pic",
+            "Bre",
+            "MAO",
+            "IRI",
+            "Wal",
+            "NTH"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "France",
+        "unitType": "F",
+        "currentControl": "France"
+    },
+    "Mos": {
+        "expansion": "Moscow",
+        "country": "Russia",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Stp",
+            "Sev",
+            "Ukr",
+            "War",
+            "Lvn"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Austria",
+        "unitType": "A",
+        "currentControl": "Austria"
+    },
+    "Hol": {
+        "expansion": "Holland",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "Bel",
+            "NTH",
+            "Kie",
+            "Ruh",
+            "HEL"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Germany",
+        "unitType": "A",
+        "currentControl": "Germany"
+    },
+    "Kie": {
+        "expansion": "Kiel",
+        "country": "Germany",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "HEL",
+            "Ber",
+            "Mun",
+            "Ruh",
+            "Hol",
+            "Den",
+            "BAL"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Germany",
+        "unitType": "F",
+        "currentControl": "Germany"
+    },
+    "EAS": {
+        "expansion": "EasternMediterranean",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "Syr",
+            "ION",
+            "AEG",
+            "Smy"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Italy",
+        "unitType": "None",
+        "currentControl": "Turkey"
+    },
+    "Ven": {
+        "expansion": "Venice",
+        "country": "Italy",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "Pie",
+            "Tyr",
+            "Tri",
+            "ADR",
+            "Apu",
+            "Tus",
+            "Rom"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "France",
+        "unitType": "A",
+        "currentControl": "France"
+    },
+    "Fin": {
+        "expansion": "Finland",
+        "country": "Russia",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "Stp",
+            "Swe",
+            "Nwy",
+            "BOT"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "Germany"
+    },
+    "NWG": {
+        "expansion": "NorwegianSea",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "NAO",
+            "Nwy",
+            "BAR",
+            "NTH",
+            "Cly",
+            "Edi"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "England",
+        "unitType": "None",
+        "currentControl": "England"
+    },
+    "Ukr": {
+        "expansion": "Ukraine",
+        "country": "Russia",
+        "provinceType": "Inland",
+        "adjacency": [
+            "Mos",
+            "Sev",
+            "Rum",
+            "Gal",
+            "War"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Austria",
+        "unitType": "A",
+        "currentControl": "Austria"
+    },
+    "Alb": {
+        "expansion": "Albania",
+        "country": "None",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "ADR",
+            "Tri",
+            "Ser",
+            "Gre",
+            "ION"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Austria",
+        "unitType": "None",
+        "currentControl": "Austria"
+    },
+    "Arm": {
+        "expansion": "Armenia",
+        "country": "Turkey",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "BLA",
+            "Sev",
+            "Syr",
+            "Ank",
+            "Smy"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "Turkey",
+        "unitType": "A",
+        "currentControl": "Turkey"
+    },
+    "Smy": {
+        "expansion": "Smyrna",
+        "country": "Turkey",
+        "provinceType": "Coastal",
+        "adjacency": [
+            "EAS",
+            "AEG",
+            "Con",
+            "Ank",
+            "Arm",
+            "Syr"
+        ],
+        "supplyCentre": true,
+        "controlledBy": "Turkey",
+        "unitType": "None",
+        "currentControl": "Turkey"
+    },
+    "IRI": {
+        "expansion": "IrishSea",
+        "country": "None",
+        "provinceType": "Water",
+        "adjacency": [
+            "NAO",
+            "ENG",
+            "MAO",
+            "Lvp",
+            "Wal"
+        ],
+        "supplyCentre": false,
+        "controlledBy": "France",
+        "unitType": "None",
+        "currentControl": "France"
+    }
+}

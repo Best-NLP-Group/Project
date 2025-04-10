@@ -1,3 +1,13 @@
+# Resources
+
+Dataset Link: https://sites.google.com/view/qanta/projects/diplomacy
+
+Paper Link: https://users.umiacs.umd.edu/~jbg/docs/2020_acl_diplomacy.pdf
+
+Source Repository: https://github.com/DenisPeskoff/2020_acl_diplomacy
+
+# Baselines
+
 # 1. Bag of Words
 
 Simply run the ipynb in the BoW_Baseline folder. The test set metrics will appear as the output of the last cell block.
