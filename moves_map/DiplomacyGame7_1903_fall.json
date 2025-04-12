@@ -98,7 +98,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Russia",
-        "unitType": "NFone",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "Nwy": {
@@ -840,7 +840,7 @@
             "Alb"
         ],
         "supplyCentre": true,
-        "controlledBy": "Russia",
+        "controlledBy": "Austria",
         "unitType": "A",
         "currentControl": "Austria"
     },
@@ -970,7 +970,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Turkey",
-        "unitType": "NFone",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "BOT": {

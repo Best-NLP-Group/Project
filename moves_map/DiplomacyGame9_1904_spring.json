@@ -402,7 +402,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "NFone",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "Lvn": {
@@ -969,7 +969,7 @@
             "Rum"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "None",
         "unitType": "None",
         "currentControl": "Russia"
     },

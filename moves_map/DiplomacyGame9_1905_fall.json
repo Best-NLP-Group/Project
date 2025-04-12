@@ -401,8 +401,8 @@
             "AEG"
         ],
         "supplyCentre": true,
-        "controlledBy": "Russia",
-        "unitType": "NFone",
+        "controlledBy": "Turkey",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "Lvn": {
@@ -969,7 +969,7 @@
             "Rum"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "None",
         "unitType": "None",
         "currentControl": "Russia"
     },

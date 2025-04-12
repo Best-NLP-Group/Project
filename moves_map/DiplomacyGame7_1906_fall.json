@@ -710,7 +710,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Italy",
-        "unitType": "NFone",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "Tun": {
@@ -969,7 +969,7 @@
             "Rum"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "Turkey",
         "unitType": "None",
         "currentControl": "Russia"
     },

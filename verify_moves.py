@@ -1,6 +1,6 @@
 import json 
 
-with open("moves_map/DiplomacyGame12_1910_winter.json", 'r') as f:
+with open("moves_map/DiplomacyGame1_1910_winter.json", 'r') as f:
     data = json.load(f)
     
 COUNTRIES = {

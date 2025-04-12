@@ -98,7 +98,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Russia",
-        "unitType": "NFone",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "Nwy": {
@@ -969,8 +969,8 @@
             "Rum"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
-        "unitType": "NFone",
+        "controlledBy": "Turkey",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "BOT": {

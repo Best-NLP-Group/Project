@@ -401,7 +401,7 @@
             "AEG"
         ],
         "supplyCentre": true,
-        "controlledBy": "Russia",
+        "controlledBy": "Turkey",
         "unitType": "None",
         "currentControl": "Russia"
     },
@@ -920,7 +920,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Russia",
-        "unitType": "NFone",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "Mar": {
@@ -969,7 +969,7 @@
             "Rum"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "None",
         "unitType": "None",
         "currentControl": "Russia"
     },

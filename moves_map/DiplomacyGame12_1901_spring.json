@@ -970,7 +970,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "NFone",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "BOT": {

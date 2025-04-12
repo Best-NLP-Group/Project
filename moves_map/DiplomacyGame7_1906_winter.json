@@ -709,8 +709,8 @@
             "Mos"
         ],
         "supplyCentre": true,
-        "controlledBy": "Russia",
-        "unitType": "NFone",
+        "controlledBy": "Italy",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "Tun": {
@@ -969,7 +969,7 @@
             "Rum"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "Turkey",
         "unitType": "None",
         "currentControl": "Russia"
     },

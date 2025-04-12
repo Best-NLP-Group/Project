@@ -969,8 +969,8 @@
             "Rum"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
-        "unitType": "NFone",
+        "controlledBy": "None",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "BOT": {
