@@ -1184,7 +1184,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Austria"
     },
     "Arm": {

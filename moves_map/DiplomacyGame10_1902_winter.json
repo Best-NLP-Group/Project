@@ -676,9 +676,9 @@
             "Mar"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
-        "unitType": "A",
-        "currentControl": "Germany"
+        "controlledBy": "None",
+        "unitType": "None",
+        "currentControl": "None"
     },
     "Tyr": {
         "expansion": "Tyrolia",

@@ -693,9 +693,9 @@
             "Ven"
         ],
         "supplyCentre": false,
-        "controlledBy": "France",
-        "unitType": "F",
-        "currentControl": "France"
+        "controlledBy": "Austria",
+        "unitType": "None",
+        "currentControl": "Turkey"
     },
     "Sev": {
         "expansion": "Sevastopol",

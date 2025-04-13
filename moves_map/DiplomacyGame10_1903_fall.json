@@ -676,7 +676,7 @@
             "Mar"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "France"
     },

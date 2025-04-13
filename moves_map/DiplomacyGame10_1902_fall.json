@@ -677,8 +677,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "A",
-        "currentControl": "Germany"
+        "unitType": "None",
+        "currentControl": "None"
     },
     "Tyr": {
         "expansion": "Tyrolia",

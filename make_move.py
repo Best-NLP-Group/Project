@@ -15,7 +15,7 @@ def move_resolution(FILE, curr_map):
                     continue
                 if orders[place][order]["retreat"]["result"] == "FAILS":
                     EMPTY.append(order)
-                if orders[place][order]["retreat"]["type"] == "MOVE":
+                elif orders[place][order]["retreat"]["type"] == "MOVE":
                     curr_map[orders[place][order]["retreat"]["to"]]["unitType"] = curr_map[order]["unitType"]
                     curr_map[orders[place][order]["retreat"]["to"]]["currentControl"] = place
                     EMPTY.append(order)

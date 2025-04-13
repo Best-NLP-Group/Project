@@ -1183,8 +1183,8 @@
             "ION"
         ],
         "supplyCentre": false,
-        "controlledBy": "Austria",
-        "unitType": "F",
+        "controlledBy": "None",
+        "unitType": "None",
         "currentControl": "Austria"
     },
     "Arm": {
