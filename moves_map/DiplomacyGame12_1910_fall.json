@@ -12,7 +12,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Turkey",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Turkey"
     },
     "Pie": {
@@ -180,7 +180,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "France",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "France"
     },
     "Den": {
@@ -246,7 +246,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Turkey",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Turkey"
     },
     "War": {
@@ -310,7 +310,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Russia",
-        "unitType": "A",
+        "unitType": "F",
         "currentControl": "Russia"
     },
     "Syr": {
@@ -470,7 +470,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Turkey",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Turkey"
     },
     "WES": {
@@ -506,7 +506,7 @@
         "supplyCentre": true,
         "controlledBy": "Russia",
         "unitType": "A",
-        "currentControl": "Turkey"
+        "currentControl": "Russia"
     },
     "NAO": {
         "expansion": "NorthAtlanticOcean",
@@ -625,7 +625,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Russia",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "Russia"
     },
     "ION": {
@@ -739,7 +739,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Russia",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "Vie": {
@@ -791,7 +791,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Turkey"
     },
     "Ruh": {
@@ -856,8 +856,8 @@
         ],
         "supplyCentre": true,
         "controlledBy": "England",
-        "unitType": "F",
-        "currentControl": "Russia"
+        "unitType": "None",
+        "currentControl": "England"
     },
     "Gre": {
         "expansion": "Greece",
@@ -937,7 +937,7 @@
         "supplyCentre": true,
         "controlledBy": "France",
         "unitType": "A",
-        "currentControl": "Turkey"
+        "currentControl": "France"
     },
     "Bel": {
         "expansion": "Belgium",
@@ -1120,7 +1120,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "A",
+        "unitType": "F",
         "currentControl": "Turkey"
     },
     "Fin": {
@@ -1135,7 +1135,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Russia"
     },
     "NWG": {

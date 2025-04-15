@@ -27,7 +27,7 @@
             "Tus"
         ],
         "supplyCentre": false,
-        "controlledBy": "Italy",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Italy"
     },
@@ -63,7 +63,7 @@
             "Naf"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "France",
         "unitType": "F",
         "currentControl": "Russia"
     },
@@ -179,7 +179,7 @@
             "Gas"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -245,7 +245,7 @@
             "Spa"
         ],
         "supplyCentre": false,
-        "controlledBy": "Italy",
+        "controlledBy": "France",
         "unitType": "F",
         "currentControl": "Italy"
     },
@@ -571,7 +571,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Italy",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Italy"
     },
     "Yor": {
@@ -602,7 +602,7 @@
             "Bre"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "England",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -660,7 +660,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Italy",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Italy"
     },
     "Gas": {
@@ -935,7 +935,7 @@
             "Pie"
         ],
         "supplyCentre": true,
-        "controlledBy": "Italy",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Italy"
     },
@@ -1216,7 +1216,7 @@
             "Syr"
         ],
         "supplyCentre": true,
-        "controlledBy": "Italy",
+        "controlledBy": "Turkey",
         "unitType": "F",
         "currentControl": "Italy"
     },
@@ -1232,7 +1232,7 @@
             "Wal"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "None",
         "unitType": "F",
         "currentControl": "Russia"
     }

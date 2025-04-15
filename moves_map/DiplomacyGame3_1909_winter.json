@@ -97,7 +97,7 @@
             "Sev"
         ],
         "supplyCentre": true,
-        "controlledBy": "Italy",
+        "controlledBy": "Turkey",
         "unitType": "A",
         "currentControl": "Italy"
     },
@@ -292,7 +292,7 @@
             "Gas"
         ],
         "supplyCentre": true,
-        "controlledBy": "England",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "England"
     },
@@ -323,7 +323,7 @@
             "EAS"
         ],
         "supplyCentre": false,
-        "controlledBy": "Turkey",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "Turkey"
     },
@@ -401,7 +401,7 @@
             "AEG"
         ],
         "supplyCentre": true,
-        "controlledBy": "Italy",
+        "controlledBy": "Turkey",
         "unitType": "A",
         "currentControl": "Italy"
     },
@@ -505,7 +505,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Germany"
     },
     "NAO": {
@@ -571,7 +571,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Italy",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Italy"
     },
     "Yor": {
@@ -660,7 +660,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Italy",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Italy"
     },
     "Gas": {
@@ -709,7 +709,7 @@
             "Mos"
         ],
         "supplyCentre": true,
-        "controlledBy": "Germany",
+        "controlledBy": "Turkey",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -1018,7 +1018,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "England",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "England"
     },
     "ENG": {
@@ -1120,7 +1120,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Italy",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Italy"
     },
     "Fin": {
@@ -1216,7 +1216,7 @@
             "Syr"
         ],
         "supplyCentre": true,
-        "controlledBy": "Italy",
+        "controlledBy": "Turkey",
         "unitType": "A",
         "currentControl": "Italy"
     },

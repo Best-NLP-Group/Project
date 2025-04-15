@@ -571,7 +571,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "France",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "France"
     },
     "Yor": {
@@ -872,8 +872,8 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "A",
-        "currentControl": "France"
+        "unitType": "None",
+        "currentControl": "Turkey"
     },
     "Bre": {
         "expansion": "Brest",

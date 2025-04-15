@@ -116,7 +116,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "England",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "England"
     },
     "Apu": {
@@ -214,7 +214,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Austria",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Austria"
     },
     "Cly": {
@@ -264,7 +264,7 @@
         "supplyCentre": true,
         "controlledBy": "Austria",
         "unitType": "A",
-        "currentControl": "Germany"
+        "currentControl": "Austria"
     },
     "HEL": {
         "expansion": "HeligolandBight",
@@ -625,7 +625,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "England",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "England"
     },
     "ION": {
@@ -710,8 +710,8 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Russia",
-        "unitType": "A",
-        "currentControl": "Austria"
+        "unitType": "None",
+        "currentControl": "Russia"
     },
     "Tun": {
         "expansion": "Tunis",
@@ -1002,7 +1002,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Germany"
     },
     "Edi": {
@@ -1037,7 +1037,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "England",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "England"
     },
     "Mos": {
@@ -1152,7 +1152,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "England",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "England"
     },
     "Ukr": {
@@ -1168,7 +1168,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Austria",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Austria"
     },
     "Alb": {
@@ -1200,7 +1200,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Austria",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Austria"
     },
     "Smy": {
@@ -1217,7 +1217,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Austria",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "Austria"
     },
     "IRI": {

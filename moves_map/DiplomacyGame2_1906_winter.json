@@ -372,7 +372,7 @@
             "Mar"
         ],
         "supplyCentre": true,
-        "controlledBy": "England",
+        "controlledBy": "Italy",
         "unitType": "F",
         "currentControl": "England"
     },
@@ -401,7 +401,7 @@
             "AEG"
         ],
         "supplyCentre": true,
-        "controlledBy": "Turkey",
+        "controlledBy": "Austria",
         "unitType": "F",
         "currentControl": "Turkey"
     },
@@ -418,7 +418,7 @@
             "Pru"
         ],
         "supplyCentre": false,
-        "controlledBy": "England",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "England"
     },
@@ -676,7 +676,7 @@
             "Mar"
         ],
         "supplyCentre": false,
-        "controlledBy": "England",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "England"
     },
@@ -693,7 +693,7 @@
             "Ven"
         ],
         "supplyCentre": false,
-        "controlledBy": "Italy",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "Italy"
     },
@@ -856,7 +856,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "England",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "England"
     },
     "Gre": {
@@ -920,7 +920,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Turkey"
     },
     "Mar": {

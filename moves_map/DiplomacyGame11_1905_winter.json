@@ -277,7 +277,7 @@
             "NTH"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "England",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -292,7 +292,7 @@
             "Gas"
         ],
         "supplyCentre": true,
-        "controlledBy": "Germany",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -486,7 +486,7 @@
             "TYS"
         ],
         "supplyCentre": false,
-        "controlledBy": "Italy",
+        "controlledBy": "France",
         "unitType": "F",
         "currentControl": "Italy"
     },
@@ -586,7 +586,7 @@
             "NTH"
         ],
         "supplyCentre": false,
-        "controlledBy": "France",
+        "controlledBy": "England",
         "unitType": "A",
         "currentControl": "France"
     },
@@ -624,7 +624,7 @@
             "Nwy"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "France",
         "unitType": "F",
         "currentControl": "Germany"
     },
@@ -644,7 +644,7 @@
             "EAS"
         ],
         "supplyCentre": false,
-        "controlledBy": "Austria",
+        "controlledBy": "Turkey",
         "unitType": "F",
         "currentControl": "Austria"
     },
@@ -709,7 +709,7 @@
             "Mos"
         ],
         "supplyCentre": true,
-        "controlledBy": "Austria",
+        "controlledBy": "Turkey",
         "unitType": "A",
         "currentControl": "Austria"
     },
@@ -755,7 +755,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Austria",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Austria"
     },
     "TYS": {
@@ -952,7 +952,7 @@
             "NTH"
         ],
         "supplyCentre": true,
-        "controlledBy": "Germany",
+        "controlledBy": "France",
         "unitType": "F",
         "currentControl": "Germany"
     },
@@ -1002,7 +1002,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Germany"
     },
     "Edi": {
@@ -1087,7 +1087,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Germany"
     },
     "EAS": {
@@ -1167,7 +1167,7 @@
             "War"
         ],
         "supplyCentre": false,
-        "controlledBy": "Austria",
+        "controlledBy": "Turkey",
         "unitType": "A",
         "currentControl": "Austria"
     },
@@ -1199,7 +1199,7 @@
             "Smy"
         ],
         "supplyCentre": false,
-        "controlledBy": "Turkey",
+        "controlledBy": "Russia",
         "unitType": "A",
         "currentControl": "Turkey"
     },

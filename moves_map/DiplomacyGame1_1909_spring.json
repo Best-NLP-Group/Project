@@ -28,7 +28,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Italy",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Italy"
     },
     "Bud": {
@@ -64,7 +64,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "France",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Italy"
     },
     "Pru": {
@@ -98,8 +98,8 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Austria",
-        "unitType": "A",
-        "currentControl": "Russia"
+        "unitType": "None",
+        "currentControl": "Austria"
     },
     "Nwy": {
         "expansion": "Norway",
@@ -437,7 +437,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Russia",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Russia"
     },
     "Bul": {
@@ -470,8 +470,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "F",
-        "currentControl": "Italy"
+        "unitType": "None",
+        "currentControl": "None"
     },
     "WES": {
         "expansion": "WesternMediterranean",
@@ -645,7 +645,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Italy",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "Italy"
     },
     "Nap": {
@@ -695,7 +695,7 @@
         "supplyCentre": false,
         "controlledBy": "Russia",
         "unitType": "A",
-        "currentControl": "Italy"
+        "currentControl": "Russia"
     },
     "Sev": {
         "expansion": "Sevastopol",
@@ -792,7 +792,7 @@
         "supplyCentre": true,
         "controlledBy": "Italy",
         "unitType": "A",
-        "currentControl": "Russia"
+        "currentControl": "Italy"
     },
     "Ruh": {
         "expansion": "Ruhr",
@@ -842,7 +842,7 @@
         "supplyCentre": true,
         "controlledBy": "Austria",
         "unitType": "A",
-        "currentControl": "Italy"
+        "currentControl": "Austria"
     },
     "Lon": {
         "expansion": "London",
@@ -856,7 +856,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "Germany"
     },
     "Gre": {
@@ -1038,7 +1038,7 @@
         "supplyCentre": false,
         "controlledBy": "Italy",
         "unitType": "F",
-        "currentControl": "Germany"
+        "currentControl": "Italy"
     },
     "Mos": {
         "expansion": "Moscow",

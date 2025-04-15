@@ -28,7 +28,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Italy",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Italy"
     },
     "Bud": {
@@ -44,7 +44,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Austria",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Austria"
     },
     "MAO": {
@@ -162,8 +162,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "A",
-        "currentControl": "England"
+        "unitType": "None",
+        "currentControl": "None"
     },
     "Bur": {
         "expansion": "Burgundy",
@@ -180,7 +180,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "France",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "France"
     },
     "Den": {
@@ -263,7 +263,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Russia",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Russia"
     },
     "HEL": {
@@ -293,7 +293,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "France",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "France"
     },
     "Stp": {
@@ -437,8 +437,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Russia",
-        "unitType": "A",
-        "currentControl": "Austria"
+        "unitType": "F",
+        "currentControl": "Russia"
     },
     "Bul": {
         "expansion": "Bulgaria",
@@ -604,7 +604,7 @@
         "supplyCentre": false,
         "controlledBy": "England",
         "unitType": "A",
-        "currentControl": "France"
+        "currentControl": "England"
     },
     "NTH": {
         "expansion": "NorthSea",
@@ -625,7 +625,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "England",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "England"
     },
     "ION": {
@@ -824,8 +824,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "A",
-        "currentControl": "Germany"
+        "unitType": "None",
+        "currentControl": "None"
     },
     "Ser": {
         "expansion": "Serbia",
@@ -905,7 +905,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "England",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "England"
     },
     "Ank": {
@@ -937,7 +937,7 @@
         "supplyCentre": true,
         "controlledBy": "France",
         "unitType": "A",
-        "currentControl": "Italy"
+        "currentControl": "France"
     },
     "Bel": {
         "expansion": "Belgium",
@@ -1002,7 +1002,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Germany"
     },
     "Edi": {
@@ -1135,8 +1135,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "F",
-        "currentControl": "England"
+        "unitType": "None",
+        "currentControl": "None"
     },
     "NWG": {
         "expansion": "NorwegianSea",
@@ -1152,7 +1152,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "England",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "England"
     },
     "Ukr": {

@@ -1,0 +1,13 @@
+{
+    "Austria": [],
+    "Germany": [
+        "germany: kie: unit_type: a, type: build, result: succeeds"
+    ],
+    "Italy": [],
+    "Turkey": [
+        "turkey: con: unit_type: a, type: build, result: succeeds"
+    ],
+    "Russia": [],
+    "England": [],
+    "France": []
+}

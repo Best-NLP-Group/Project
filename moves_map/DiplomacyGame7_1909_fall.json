@@ -64,7 +64,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "France",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "France"
     },
     "Pru": {
@@ -246,7 +246,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "France",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "France"
     },
     "War": {
@@ -263,7 +263,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Germany"
     },
     "HEL": {
@@ -310,7 +310,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "Germany"
     },
     "Syr": {
@@ -437,7 +437,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Italy",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Germany"
     },
     "Bul": {
@@ -572,7 +572,7 @@
         "supplyCentre": true,
         "controlledBy": "Italy",
         "unitType": "A",
-        "currentControl": "France"
+        "currentControl": "Italy"
     },
     "Yor": {
         "expansion": "Yorkshire",
@@ -661,7 +661,7 @@
         "supplyCentre": true,
         "controlledBy": "Italy",
         "unitType": "F",
-        "currentControl": "France"
+        "currentControl": "Italy"
     },
     "Gas": {
         "expansion": "Gascony",
@@ -694,8 +694,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Austria",
-        "unitType": "A",
-        "currentControl": "Italy"
+        "unitType": "None",
+        "currentControl": "Austria"
     },
     "Sev": {
         "expansion": "Sevastopol",
@@ -739,8 +739,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "F",
-        "currentControl": "Germany"
+        "unitType": "None",
+        "currentControl": "None"
     },
     "Vie": {
         "expansion": "Vienna",
@@ -756,7 +756,7 @@
         "supplyCentre": true,
         "controlledBy": "Italy",
         "unitType": "A",
-        "currentControl": "Germany"
+        "currentControl": "Italy"
     },
     "TYS": {
         "expansion": "TyrrhenianSea",
@@ -1037,7 +1037,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "France",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "France"
     },
     "Mos": {
@@ -1053,8 +1053,8 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Russia",
-        "unitType": "A",
-        "currentControl": "Germany"
+        "unitType": "None",
+        "currentControl": "Russia"
     },
     "Hol": {
         "expansion": "Holland",
@@ -1120,7 +1120,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "France",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "France"
     },
     "Fin": {

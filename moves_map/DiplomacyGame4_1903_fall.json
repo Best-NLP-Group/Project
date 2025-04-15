@@ -13,7 +13,7 @@
         "supplyCentre": false,
         "controlledBy": "Russia",
         "unitType": "A",
-        "currentControl": "Austria"
+        "currentControl": "Russia"
     },
     "Pie": {
         "expansion": "Piedmont",
@@ -278,7 +278,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "England"
     },
     "Par": {
@@ -402,7 +402,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "Turkey"
     },
     "Lvn": {
@@ -506,7 +506,7 @@
         "supplyCentre": true,
         "controlledBy": "Germany",
         "unitType": "A",
-        "currentControl": "Russia"
+        "currentControl": "Germany"
     },
     "NAO": {
         "expansion": "NorthAtlanticOcean",
@@ -603,7 +603,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "France",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "France"
     },
     "NTH": {
@@ -646,7 +646,7 @@
         "supplyCentre": false,
         "controlledBy": "Italy",
         "unitType": "F",
-        "currentControl": "Turkey"
+        "currentControl": "Italy"
     },
     "Nap": {
         "expansion": "Naples",
@@ -660,7 +660,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Italy",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Italy"
     },
     "Gas": {
@@ -755,7 +755,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Austria",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Austria"
     },
     "TYS": {
@@ -953,8 +953,8 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "F",
-        "currentControl": "France"
+        "unitType": "A",
+        "currentControl": "Germany"
     },
     "BLA": {
         "expansion": "BlackSea",
@@ -1069,8 +1069,8 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "F",
-        "currentControl": "England"
+        "unitType": "A",
+        "currentControl": "Germany"
     },
     "Kie": {
         "expansion": "Kiel",

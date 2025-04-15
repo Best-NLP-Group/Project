@@ -65,7 +65,7 @@
         "supplyCentre": false,
         "controlledBy": "Germany",
         "unitType": "F",
-        "currentControl": "Italy"
+        "currentControl": "Germany"
     },
     "Pru": {
         "expansion": "Prussia",
@@ -98,7 +98,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Turkey"
     },
     "Nwy": {
@@ -116,7 +116,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Germany"
     },
     "Apu": {
@@ -246,8 +246,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "France",
-        "unitType": "F",
-        "currentControl": "Italy"
+        "unitType": "None",
+        "currentControl": "France"
     },
     "War": {
         "expansion": "Warsaw",
@@ -373,7 +373,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Germany"
     },
     "Por": {
@@ -470,7 +470,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Italy",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Italy"
     },
     "WES": {
@@ -487,7 +487,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Italy",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "Italy"
     },
     "Mun": {
@@ -555,7 +555,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Italy",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "Italy"
     },
     "Rom": {
@@ -645,7 +645,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Italy",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Italy"
     },
     "Nap": {
@@ -905,7 +905,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Germany"
     },
     "Ank": {
@@ -1053,8 +1053,8 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Austria",
-        "unitType": "A",
-        "currentControl": "Germany"
+        "unitType": "None",
+        "currentControl": "Austria"
     },
     "Hol": {
         "expansion": "Holland",
@@ -1169,7 +1169,7 @@
         "supplyCentre": false,
         "controlledBy": "Germany",
         "unitType": "A",
-        "currentControl": "Turkey"
+        "currentControl": "Germany"
     },
     "Alb": {
         "expansion": "Albania",

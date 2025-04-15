@@ -1,0 +1,48 @@
+{
+    "Austria": [],
+    "Germany": [
+        "germany: hol: to: ruh, result_reason: unchallenged, type: support, result: succeeds, from: mun",
+        "germany: swe: to: bal, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "germany: nwy: to: nth, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "germany: boh: to: sil, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "germany: den: type: hold, result: succeeds, result_reason: unchallenged",
+        "germany: ber: to: sil, result_reason: disrupted, type: support, result: fails, from: boh",
+        "germany: mun: to: ruh, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "germany: kie: to: mun, type: move, result: fails, result_reason: attack strength is not greater than the defend strength"
+    ],
+    "Italy": [],
+    "Turkey": [
+        "turkey: tri: to: ven, type: move, result: succeeds, result_reason: attack strength is greater",
+        "turkey: adr: to: ven, result_reason: unchallenged, type: support, result: succeeds, from: tri",
+        "turkey: apu: to: rom, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "turkey: ion: to: nap, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "turkey: gre: to: ion, result_reason: unchallenged, type: support, result: succeeds, from: eas",
+        "turkey: bul: to: rum, type: move, result: succeeds, result_reason: attack strength is greater",
+        "turkey: eas: to: ion, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "turkey: tyr: to: pie, type: move, result: succeeds, result_reason: attack strength is greater"
+    ],
+    "Russia": [
+        "russia: pru: to: ber, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "russia: bal: to: kie, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "russia: gal: to: boh, result_reason: unchallenged, type: support, result: succeeds, from: vie",
+        "russia: vie: to: boh, type: move, result: succeeds, result_reason: attack strength is greater",
+        "russia: sil: to: boh, result_reason: neither displaced nor disrupted, type: support, result: succeeds, from: vie"
+    ],
+    "England": [
+        "england: edi: to: lvp, type: move, result: fails, result_reason: attack strength is not greater than the defend strength"
+    ],
+    "France": [
+        "france: lvp: type: hold, result: succeeds, result_reason: stronger defense",
+        "france: bel: to: ruh, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "france: eng: to: bel, result_reason: unchallenged, type: support, result: succeeds, from: pic",
+        "france: bur: to: ruh, result_reason: unchallenged, type: support, result: succeeds, from: bel",
+        "france: pic: to: bel, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "france: lon: to: yor, type: move, result: succeeds, result_reason: attack strength is greater",
+        "france: nth: to: yor, result_reason: disrupted, type: support, result: fails, from: lon",
+        "france: nap: to: apu, type: move, result: succeeds, result_reason: attack strength is greater",
+        "france: tun: to: ion, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "france: ven: type: hold, result: fails, result_reason: insufficient hold strength",
+        "france: tys: to: nap, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "france: rom: to: apu, result_reason: neither displaced nor disrupted, type: support, result: succeeds, from: nap"
+    ]
+}

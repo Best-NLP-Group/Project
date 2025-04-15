@@ -44,7 +44,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Austria",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Austria"
     },
     "MAO": {
@@ -64,7 +64,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "England",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "England"
     },
     "Pru": {
@@ -132,7 +132,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Austria",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "Austria"
     },
     "Naf": {
@@ -263,8 +263,8 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Russia",
-        "unitType": "A",
-        "currentControl": "Austria"
+        "unitType": "None",
+        "currentControl": "Russia"
     },
     "HEL": {
         "expansion": "HeligolandBight",
@@ -438,7 +438,7 @@
         "supplyCentre": false,
         "controlledBy": "Russia",
         "unitType": "A",
-        "currentControl": "Austria"
+        "currentControl": "Russia"
     },
     "Bul": {
         "expansion": "Bulgaria",
@@ -470,7 +470,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Austria",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Austria"
     },
     "WES": {
@@ -487,7 +487,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "England",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "England"
     },
     "Mun": {
@@ -825,7 +825,7 @@
         "supplyCentre": false,
         "controlledBy": "Russia",
         "unitType": "A",
-        "currentControl": "Germany"
+        "currentControl": "Russia"
     },
     "Ser": {
         "expansion": "Serbia",
@@ -920,7 +920,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Austria",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Austria"
     },
     "Mar": {
@@ -1087,7 +1087,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Germany"
     },
     "EAS": {
@@ -1168,7 +1168,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Austria",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Austria"
     },
     "Alb": {
@@ -1200,8 +1200,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Russia",
-        "unitType": "A",
-        "currentControl": "Austria"
+        "unitType": "None",
+        "currentControl": "Russia"
     },
     "Smy": {
         "expansion": "Smyrna",

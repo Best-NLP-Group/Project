@@ -11,7 +11,7 @@
             "Gal"
         ],
         "supplyCentre": false,
-        "controlledBy": "France",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "France"
     },
@@ -27,7 +27,7 @@
             "Tus"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -44,7 +44,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Austria",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Austria"
     },
     "MAO": {
@@ -161,7 +161,7 @@
             "Lvp"
         ],
         "supplyCentre": false,
-        "controlledBy": "France",
+        "controlledBy": "None",
         "unitType": "F",
         "currentControl": "France"
     },
@@ -228,7 +228,7 @@
             "Lvp"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -453,7 +453,7 @@
             "Ser"
         ],
         "supplyCentre": true,
-        "controlledBy": "Turkey",
+        "controlledBy": "Austria",
         "unitType": "A",
         "currentControl": "Turkey"
     },
@@ -505,7 +505,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Germany"
     },
     "NAO": {
@@ -602,7 +602,7 @@
             "Bre"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -660,7 +660,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Italy",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Italy"
     },
     "Gas": {
@@ -754,7 +754,7 @@
             "Bud"
         ],
         "supplyCentre": true,
-        "controlledBy": "Germany",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -840,7 +840,7 @@
             "Alb"
         ],
         "supplyCentre": true,
-        "controlledBy": "Austria",
+        "controlledBy": "Turkey",
         "unitType": "A",
         "currentControl": "Austria"
     },
@@ -887,7 +887,7 @@
             "Gas"
         ],
         "supplyCentre": true,
-        "controlledBy": "Germany",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -1036,7 +1036,7 @@
             "NTH"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "France",
         "unitType": "F",
         "currentControl": "Germany"
     },
@@ -1087,7 +1087,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Germany"
     },
     "EAS": {
@@ -1119,7 +1119,7 @@
             "Rom"
         ],
         "supplyCentre": true,
-        "controlledBy": "Italy",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Italy"
     },
@@ -1183,7 +1183,7 @@
             "ION"
         ],
         "supplyCentre": false,
-        "controlledBy": "Italy",
+        "controlledBy": "Austria",
         "unitType": "F",
         "currentControl": "Italy"
     },

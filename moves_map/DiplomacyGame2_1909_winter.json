@@ -196,7 +196,7 @@
             "Swe"
         ],
         "supplyCentre": true,
-        "controlledBy": "England",
+        "controlledBy": "Germany",
         "unitType": "A",
         "currentControl": "England"
     },
@@ -292,7 +292,7 @@
             "Gas"
         ],
         "supplyCentre": true,
-        "controlledBy": "England",
+        "controlledBy": "Germany",
         "unitType": "A",
         "currentControl": "England"
     },
@@ -644,7 +644,7 @@
             "EAS"
         ],
         "supplyCentre": false,
-        "controlledBy": "Turkey",
+        "controlledBy": "Italy",
         "unitType": "F",
         "currentControl": "Turkey"
     },
@@ -660,7 +660,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Italy",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Italy"
     },
     "Gas": {
@@ -840,7 +840,7 @@
             "Alb"
         ],
         "supplyCentre": true,
-        "controlledBy": "Germany",
+        "controlledBy": "Austria",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -871,7 +871,7 @@
             "Bul"
         ],
         "supplyCentre": true,
-        "controlledBy": "Turkey",
+        "controlledBy": "Austria",
         "unitType": "A",
         "currentControl": "Turkey"
     },
@@ -920,7 +920,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Turkey"
     },
     "Mar": {
@@ -935,7 +935,7 @@
             "Pie"
         ],
         "supplyCentre": true,
-        "controlledBy": "Italy",
+        "controlledBy": "England",
         "unitType": "A",
         "currentControl": "Italy"
     },
@@ -1018,7 +1018,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "England",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "England"
     },
     "ENG": {

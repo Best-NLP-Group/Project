@@ -64,7 +64,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "England",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "England"
     },
     "Pru": {
@@ -80,8 +80,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Russia",
-        "unitType": "A",
-        "currentControl": "Germany"
+        "unitType": "F",
+        "currentControl": "Russia"
     },
     "Rum": {
         "expansion": "Rumania",
@@ -214,7 +214,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Austria",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "Austria"
     },
     "Cly": {
@@ -1002,7 +1002,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Germany"
     },
     "Edi": {
@@ -1037,7 +1037,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "England",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "England"
     },
     "Mos": {
@@ -1217,8 +1217,8 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Russia",
-        "unitType": "F",
-        "currentControl": "Austria"
+        "unitType": "None",
+        "currentControl": "Russia"
     },
     "IRI": {
         "expansion": "IrishSea",

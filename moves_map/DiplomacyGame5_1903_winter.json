@@ -277,7 +277,7 @@
             "NTH"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -293,7 +293,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "France",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "France"
     },
     "Stp": {
@@ -323,7 +323,7 @@
             "EAS"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "Russia"
     },
@@ -538,7 +538,7 @@
             "Den"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "Russia"
     },
@@ -724,7 +724,7 @@
             "TYS"
         ],
         "supplyCentre": true,
-        "controlledBy": "France",
+        "controlledBy": "Italy",
         "unitType": "F",
         "currentControl": "France"
     },
@@ -738,7 +738,7 @@
             "NWG"
         ],
         "supplyCentre": false,
-        "controlledBy": "England",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "England"
     },
@@ -856,7 +856,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "England",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "England"
     },
     "Gre": {
@@ -904,7 +904,7 @@
             "Den"
         ],
         "supplyCentre": true,
-        "controlledBy": "England",
+        "controlledBy": "Russia",
         "unitType": "F",
         "currentControl": "England"
     },
@@ -936,7 +936,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "France",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "France"
     },
     "Bel": {
@@ -985,7 +985,7 @@
             "BAL"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "None",
         "unitType": "F",
         "currentControl": "Russia"
     },
@@ -1068,7 +1068,7 @@
             "HEL"
         ],
         "supplyCentre": true,
-        "controlledBy": "France",
+        "controlledBy": "Germany",
         "unitType": "A",
         "currentControl": "France"
     },
@@ -1199,7 +1199,7 @@
             "Smy"
         ],
         "supplyCentre": false,
-        "controlledBy": "Turkey",
+        "controlledBy": "Russia",
         "unitType": "A",
         "currentControl": "Turkey"
     },

@@ -79,7 +79,7 @@
             "Ber"
         ],
         "supplyCentre": false,
-        "controlledBy": "Turkey",
+        "controlledBy": "England",
         "unitType": "A",
         "currentControl": "Turkey"
     },
@@ -504,7 +504,7 @@
             "Bur"
         ],
         "supplyCentre": true,
-        "controlledBy": "France",
+        "controlledBy": "Turkey",
         "unitType": "A",
         "currentControl": "France"
     },
@@ -693,7 +693,7 @@
             "Ven"
         ],
         "supplyCentre": false,
-        "controlledBy": "Turkey",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Turkey"
     },
@@ -936,7 +936,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "France",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "France"
     },
     "Bel": {

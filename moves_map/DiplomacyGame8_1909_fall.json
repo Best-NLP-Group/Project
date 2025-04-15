@@ -29,7 +29,7 @@
         "supplyCentre": false,
         "controlledBy": "Russia",
         "unitType": "A",
-        "currentControl": "Russia"
+        "currentControl": "France"
     },
     "Bud": {
         "expansion": "Budapest",
@@ -311,7 +311,7 @@
         "supplyCentre": true,
         "controlledBy": "Germany",
         "unitType": "A",
-        "currentControl": "Russia"
+        "currentControl": "Germany"
     },
     "Syr": {
         "expansion": "Syria",
@@ -555,8 +555,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "France",
-        "unitType": "A",
-        "currentControl": "France"
+        "unitType": "F",
+        "currentControl": "Turkey"
     },
     "Rom": {
         "expansion": "Rome",
@@ -572,7 +572,7 @@
         "supplyCentre": true,
         "controlledBy": "Turkey",
         "unitType": "F",
-        "currentControl": "Turkey"
+        "currentControl": "France"
     },
     "Yor": {
         "expansion": "Yorkshire",
@@ -739,8 +739,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "A",
-        "currentControl": "Germany"
+        "unitType": "None",
+        "currentControl": "None"
     },
     "Vie": {
         "expansion": "Vienna",
@@ -791,7 +791,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Turkey"
     },
     "Ruh": {
@@ -1053,7 +1053,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Russia",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Russia"
     },
     "Hol": {
@@ -1121,7 +1121,7 @@
         "supplyCentre": true,
         "controlledBy": "Turkey",
         "unitType": "A",
-        "currentControl": "Turkey"
+        "currentControl": "Russia"
     },
     "Fin": {
         "expansion": "Finland",

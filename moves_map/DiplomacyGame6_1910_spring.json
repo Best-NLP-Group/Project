@@ -28,7 +28,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "France",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "France"
     },
     "Bud": {
@@ -81,7 +81,7 @@
         "supplyCentre": false,
         "controlledBy": "England",
         "unitType": "A",
-        "currentControl": "Turkey"
+        "currentControl": "England"
     },
     "Rum": {
         "expansion": "Rumania",
@@ -132,7 +132,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Turkey",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Turkey"
     },
     "Naf": {
@@ -180,7 +180,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "France",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "France"
     },
     "Den": {
@@ -263,7 +263,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Turkey"
     },
     "HEL": {
@@ -402,7 +402,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Turkey"
     },
     "Lvn": {
@@ -506,7 +506,7 @@
         "supplyCentre": true,
         "controlledBy": "Turkey",
         "unitType": "A",
-        "currentControl": "France"
+        "currentControl": "Turkey"
     },
     "NAO": {
         "expansion": "NorthAtlanticOcean",
@@ -571,7 +571,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "F",
+        "unitType": "A",
         "currentControl": "Turkey"
     },
     "Yor": {
@@ -660,7 +660,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "None",
+        "unitType": "F",
         "currentControl": "Turkey"
     },
     "Gas": {
@@ -695,7 +695,7 @@
         "supplyCentre": false,
         "controlledBy": "France",
         "unitType": "A",
-        "currentControl": "Turkey"
+        "currentControl": "France"
     },
     "Sev": {
         "expansion": "Sevastopol",
@@ -755,7 +755,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Turkey"
     },
     "TYS": {
@@ -841,7 +841,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Turkey"
     },
     "Lon": {

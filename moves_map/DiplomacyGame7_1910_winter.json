@@ -436,7 +436,7 @@
             "Boh"
         ],
         "supplyCentre": false,
-        "controlledBy": "Austria",
+        "controlledBy": "Italy",
         "unitType": "F",
         "currentControl": "Austria"
     },
@@ -469,7 +469,7 @@
             "ION"
         ],
         "supplyCentre": false,
-        "controlledBy": "France",
+        "controlledBy": "Turkey",
         "unitType": "F",
         "currentControl": "France"
     },
@@ -693,7 +693,7 @@
             "Ven"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "Italy",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -871,7 +871,7 @@
             "Bul"
         ],
         "supplyCentre": true,
-        "controlledBy": "France",
+        "controlledBy": "Turkey",
         "unitType": "A",
         "currentControl": "France"
     },
@@ -888,7 +888,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "France",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "France"
     },
     "Swe": {

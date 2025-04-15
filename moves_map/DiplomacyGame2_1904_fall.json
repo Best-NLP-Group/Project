@@ -146,8 +146,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "A",
-        "currentControl": "Italy"
+        "unitType": "None",
+        "currentControl": "None"
     },
     "Wal": {
         "expansion": "Wales",
@@ -197,7 +197,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "A",
+        "unitType": "F",
         "currentControl": "Germany"
     },
     "AEG": {
@@ -587,7 +587,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "None",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "England"
     },
     "Pic": {
@@ -625,8 +625,8 @@
         ],
         "supplyCentre": false,
         "controlledBy": "England",
-        "unitType": "A",
-        "currentControl": "Germany"
+        "unitType": "None",
+        "currentControl": "England"
     },
     "ION": {
         "expansion": "IonianSea",
@@ -725,7 +725,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Italy",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Italy"
     },
     "BAR": {
@@ -807,7 +807,7 @@
         ],
         "supplyCentre": false,
         "controlledBy": "Germany",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Germany"
     },
     "Sil": {
@@ -856,8 +856,8 @@
         ],
         "supplyCentre": true,
         "controlledBy": "England",
-        "unitType": "A",
-        "currentControl": "England"
+        "unitType": "F",
+        "currentControl": "France"
     },
     "Gre": {
         "expansion": "Greece",
@@ -905,7 +905,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Germany"
     },
     "Ank": {
@@ -953,7 +953,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "None",
+        "unitType": "A",
         "currentControl": "Germany"
     },
     "BLA": {

@@ -1,0 +1,38 @@
+{
+    "Austria": [
+        "austria: tri: to: alb, type: move, result: succeeds, result_reason: attack strength is greater",
+        "austria: bud: to: ser, type: move, result: succeeds, result_reason: attack strength is greater",
+        "austria: vie: to: bud, type: move, result: succeeds, result_reason: attack strength is greater"
+    ],
+    "Germany": [
+        "germany: ber: to: mun, type: move, result: succeeds, result_reason: attack strength is greater",
+        "germany: mun: to: ruh, type: move, result: succeeds, result_reason: attack strength is greater",
+        "germany: kie: to: hol, type: move, result: succeeds, result_reason: attack strength is greater"
+    ],
+    "Italy": [
+        "italy: ven: to: tri, type: move, result: succeeds, result_reason: attack strength is greater",
+        "italy: nap: to: ion, type: move, result: succeeds, result_reason: attack strength is greater",
+        "italy: rom: to: ven, type: move, result: succeeds, result_reason: attack strength is greater"
+    ],
+    "Turkey": [
+        "turkey: ank: to: con, type: move, result: succeeds, result_reason: attack strength is greater",
+        "turkey: smy: to: ank, type: move, result: succeeds, result_reason: attack strength is greater",
+        "turkey: con: to: bul, type: move, result: succeeds, result_reason: attack strength is greater"
+    ],
+    "Russia": [
+        "russia: mos: to: ukr, type: move, result: succeeds, result_reason: attack strength is greater",
+        "russia: sev: to: bla, type: move, result: succeeds, result_reason: attack strength is greater",
+        "russia: stp: to: fin, type: move, result: succeeds, result_reason: attack strength is greater",
+        "russia: war: to: gal, type: move, result: succeeds, result_reason: attack strength is greater"
+    ],
+    "England": [
+        "england: edi: to: nth, type: move, result: succeeds, result_reason: attack strength is greater",
+        "england: lon: to: eng, type: move, result: succeeds, result_reason: attack strength is greater",
+        "england: lvp: to: wal, type: move, result: succeeds, result_reason: attack strength is greater"
+    ],
+    "France": [
+        "france: par: to: pic, type: move, result: succeeds, result_reason: attack strength is greater",
+        "france: mar: to: bur, type: move, result: succeeds, result_reason: attack strength is greater",
+        "france: bre: to: mao, type: move, result: succeeds, result_reason: attack strength is greater"
+    ]
+}

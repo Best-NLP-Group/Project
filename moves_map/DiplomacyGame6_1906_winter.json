@@ -11,7 +11,7 @@
             "Gal"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "Russia",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -43,7 +43,7 @@
             "Tri"
         ],
         "supplyCentre": true,
-        "controlledBy": "Turkey",
+        "controlledBy": "Russia",
         "unitType": "A",
         "currentControl": "Turkey"
     },
@@ -79,7 +79,7 @@
             "Ber"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "Russia"
     },
@@ -97,7 +97,7 @@
             "Sev"
         ],
         "supplyCentre": true,
-        "controlledBy": "Turkey",
+        "controlledBy": "Russia",
         "unitType": "A",
         "currentControl": "Turkey"
     },
@@ -402,7 +402,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Turkey"
     },
     "Lvn": {
@@ -504,7 +504,7 @@
             "Bur"
         ],
         "supplyCentre": true,
-        "controlledBy": "Russia",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Russia"
     },
@@ -538,7 +538,7 @@
             "Den"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "Germany",
         "unitType": "A",
         "currentControl": "Russia"
     },
@@ -554,7 +554,7 @@
             "TYS"
         ],
         "supplyCentre": false,
-        "controlledBy": "Turkey",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "Turkey"
     },
@@ -570,7 +570,7 @@
             "Apu"
         ],
         "supplyCentre": true,
-        "controlledBy": "Turkey",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Turkey"
     },
@@ -659,7 +659,7 @@
             "Rom"
         ],
         "supplyCentre": true,
-        "controlledBy": "Turkey",
+        "controlledBy": "France",
         "unitType": "F",
         "currentControl": "Turkey"
     },
@@ -693,7 +693,7 @@
             "Ven"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "France",
         "unitType": "F",
         "currentControl": "Russia"
     },
@@ -772,7 +772,7 @@
             "ION"
         ],
         "supplyCentre": false,
-        "controlledBy": "France",
+        "controlledBy": "Italy",
         "unitType": "A",
         "currentControl": "France"
     },
@@ -823,7 +823,7 @@
             "Boh"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "Germany",
         "unitType": "A",
         "currentControl": "Russia"
     },
@@ -920,7 +920,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Turkey"
     },
     "Mar": {
@@ -1086,7 +1086,7 @@
             "BAL"
         ],
         "supplyCentre": true,
-        "controlledBy": "France",
+        "controlledBy": "Germany",
         "unitType": "A",
         "currentControl": "France"
     },
@@ -1167,7 +1167,7 @@
             "War"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "Russia"
     },
@@ -1217,7 +1217,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Turkey"
     },
     "IRI": {
@@ -1232,7 +1232,7 @@
             "Wal"
         ],
         "supplyCentre": false,
-        "controlledBy": "England",
+        "controlledBy": "None",
         "unitType": "F",
         "currentControl": "England"
     }

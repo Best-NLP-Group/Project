@@ -1,0 +1,17 @@
+{
+    "Austria": [
+        "austria: adr: type: disband, result: succeeds"
+    ],
+    "Germany": [],
+    "Italy": [
+        "italy: ven: unit_type: a, type: build, result: succeeds"
+    ],
+    "Turkey": [],
+    "Russia": [
+        "russia: sev: unit_type: a, type: build, result: succeeds"
+    ],
+    "England": [
+        "england: lon: type: disband, result: succeeds"
+    ],
+    "France": []
+}

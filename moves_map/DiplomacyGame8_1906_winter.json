@@ -11,7 +11,7 @@
             "Gal"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "Turkey",
         "unitType": "A",
         "currentControl": "Russia"
     },
@@ -27,7 +27,7 @@
             "Tus"
         ],
         "supplyCentre": false,
-        "controlledBy": "Turkey",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "Turkey"
     },
@@ -131,7 +131,7 @@
             "Ven"
         ],
         "supplyCentre": false,
-        "controlledBy": "France",
+        "controlledBy": "Italy",
         "unitType": "A",
         "currentControl": "France"
     },
@@ -179,7 +179,7 @@
             "Gas"
         ],
         "supplyCentre": false,
-        "controlledBy": "France",
+        "controlledBy": "None",
         "unitType": "A",
         "currentControl": "France"
     },
@@ -402,7 +402,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Turkey"
     },
     "Lvn": {
@@ -586,7 +586,7 @@
             "NTH"
         ],
         "supplyCentre": false,
-        "controlledBy": "France",
+        "controlledBy": "England",
         "unitType": "F",
         "currentControl": "France"
     },
@@ -624,7 +624,7 @@
             "Nwy"
         ],
         "supplyCentre": false,
-        "controlledBy": "France",
+        "controlledBy": "England",
         "unitType": "F",
         "currentControl": "France"
     },
@@ -823,7 +823,7 @@
             "Boh"
         ],
         "supplyCentre": false,
-        "controlledBy": "Russia",
+        "controlledBy": "Germany",
         "unitType": "A",
         "currentControl": "Russia"
     },
@@ -1119,7 +1119,7 @@
             "Rom"
         ],
         "supplyCentre": true,
-        "controlledBy": "Turkey",
+        "controlledBy": "France",
         "unitType": "F",
         "currentControl": "Turkey"
     },
@@ -1217,7 +1217,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Turkey",
-        "unitType": "F",
+        "unitType": "None",
         "currentControl": "Turkey"
     },
     "IRI": {

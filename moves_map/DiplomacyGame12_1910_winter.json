@@ -504,7 +504,7 @@
             "Bur"
         ],
         "supplyCentre": true,
-        "controlledBy": "Turkey",
+        "controlledBy": "Russia",
         "unitType": "A",
         "currentControl": "Turkey"
     },
@@ -693,7 +693,7 @@
             "Ven"
         ],
         "supplyCentre": false,
-        "controlledBy": "Turkey",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Turkey"
     },
@@ -855,7 +855,7 @@
             "Yor"
         ],
         "supplyCentre": true,
-        "controlledBy": "Russia",
+        "controlledBy": "England",
         "unitType": "F",
         "currentControl": "Russia"
     },
@@ -935,7 +935,7 @@
             "Pie"
         ],
         "supplyCentre": true,
-        "controlledBy": "Turkey",
+        "controlledBy": "France",
         "unitType": "A",
         "currentControl": "Turkey"
     },

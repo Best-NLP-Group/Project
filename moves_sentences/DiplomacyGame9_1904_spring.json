@@ -1,0 +1,17 @@
+{
+    "Austria": [],
+    "Germany": [],
+    "Italy": [
+        "italy: rom: unit_type: a, type: build, result: succeeds"
+    ],
+    "Turkey": [],
+    "Russia": [
+        "russia: mos: unit_type: a, type: build, result: succeeds",
+        "russia: sev: unit_type: a, type: build, result: succeeds"
+    ],
+    "England": [
+        "england: lon: unit_type: a, type: build, result: succeeds",
+        "england: lvp: unit_type: f, type: build, result: fails, result_reason: too many build orders"
+    ],
+    "France": []
+}

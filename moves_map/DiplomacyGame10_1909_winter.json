@@ -44,7 +44,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Austria",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Austria"
     },
     "MAO": {
@@ -79,7 +79,7 @@
             "Ber"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "Russia",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -262,7 +262,7 @@
             "Sil"
         ],
         "supplyCentre": true,
-        "controlledBy": "Austria",
+        "controlledBy": "Russia",
         "unitType": "A",
         "currentControl": "Austria"
     },
@@ -436,7 +436,7 @@
             "Boh"
         ],
         "supplyCentre": false,
-        "controlledBy": "Austria",
+        "controlledBy": "Russia",
         "unitType": "A",
         "currentControl": "Austria"
     },
@@ -791,7 +791,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Austria",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Austria"
     },
     "Ruh": {
@@ -823,7 +823,7 @@
             "Boh"
         ],
         "supplyCentre": false,
-        "controlledBy": "Germany",
+        "controlledBy": "Russia",
         "unitType": "A",
         "currentControl": "Germany"
     },
@@ -1002,7 +1002,7 @@
         ],
         "supplyCentre": true,
         "controlledBy": "Germany",
-        "unitType": "A",
+        "unitType": "None",
         "currentControl": "Germany"
     },
     "Edi": {
@@ -1199,7 +1199,7 @@
             "Smy"
         ],
         "supplyCentre": false,
-        "controlledBy": "Austria",
+        "controlledBy": "Russia",
         "unitType": "A",
         "currentControl": "Austria"
     },
@@ -1216,7 +1216,7 @@
             "Syr"
         ],
         "supplyCentre": true,
-        "controlledBy": "Austria",
+        "controlledBy": "Russia",
         "unitType": "F",
         "currentControl": "Austria"
     },

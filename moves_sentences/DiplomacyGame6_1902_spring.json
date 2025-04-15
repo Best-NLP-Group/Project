@@ -1,0 +1,25 @@
+{
+    "Austria": [],
+    "Germany": [
+        "germany: ber: unit_type: a, type: build, result: succeeds",
+        "germany: kie: unit_type: f, type: build, result: succeeds"
+    ],
+    "Italy": [
+        "italy: nap: unit_type: f, type: build, result: succeeds",
+        "italy: rom: unit_type: f, type: build, result: succeeds"
+    ],
+    "Turkey": [
+        "turkey: smy: unit_type: f, type: build, result: succeeds"
+    ],
+    "Russia": [
+        "russia: mos: unit_type: a, type: build, result: succeeds",
+        "russia: sev: unit_type: a, type: build, result: succeeds",
+        "russia: stp: unit_type: f, type: build, result: succeeds, coast: nc"
+    ],
+    "England": [
+        "england: lvp: unit_type: f, type: build, result: succeeds"
+    ],
+    "France": [
+        "france: par: unit_type: a, type: build, result: succeeds"
+    ]
+}

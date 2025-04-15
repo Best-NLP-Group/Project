@@ -1,0 +1,13 @@
+{
+    "Austria": [
+        "austria: mos: type: disband, result: succeeds"
+    ],
+    "Germany": [],
+    "Italy": [],
+    "Turkey": [],
+    "Russia": [],
+    "England": [],
+    "France": [
+        "france: bre: unit_type: a, type: build, result: succeeds"
+    ]
+}

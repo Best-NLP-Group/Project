@@ -18,3 +18,10 @@ Run the eval.ipynb file in the LSTM_Baseline folder for evaluating the trained m
 
 For running the training script, the pretrained embeddings would have to be downloaded from the following link and be saved in the embeddings folder:
 https://drive.google.com/file/d/15JELp40_wJNeqhKiMU4H7EgNHwJ2EyyS/view?usp=sharing
+
+# Final Model
+
+Run eval.ipynb file in the 'model' folder for evaluating the trained model on the test set.
+
+For running the training script, the pretrained embeddings would have to be downloaded from the following link and be saved in the embeddings folder:
+https://drive.google.com/file/d/15JELp40_wJNeqhKiMU4H7EgNHwJ2EyyS/view?usp=sharing

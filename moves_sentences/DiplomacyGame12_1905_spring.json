@@ -1,0 +1,13 @@
+{
+    "Austria": [],
+    "Germany": [],
+    "Italy": [],
+    "Turkey": [],
+    "Russia": [
+        "russia: stp: unit_type: f, type: build, result: succeeds, coast: nc"
+    ],
+    "England": [
+        "england: lon: unit_type: f, type: build, result: succeeds"
+    ],
+    "France": []
+}

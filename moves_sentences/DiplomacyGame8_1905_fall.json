@@ -1,0 +1,49 @@
+{
+    "Austria": [
+        "austria: tri: to: bud, result_reason: disrupted, type: support, result: fails, from: vie",
+        "austria: vie: to: bud, type: move, result: fails, result_reason: attack strength is not greater than the defend strength"
+    ],
+    "Germany": [
+        "germany: hol: to: bel, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "germany: nwy: to_coast: nc, to: stp, type: move, result: succeeds, result_reason: attack strength is greater",
+        "germany: boh: to: sil, result_reason: unchallenged, type: support, result: succeeds, from: mun",
+        "germany: den: to: swe, type: move, result: succeeds, result_reason: attack strength is greater",
+        "germany: ber: to: pru, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "germany: mun: to: sil, type: move, result: succeeds, result_reason: attack strength is greater",
+        "germany: fin: to: bot, type: move, result: succeeds, result_reason: attack strength is greater"
+    ],
+    "Italy": [],
+    "Turkey": [
+        "turkey: ser: to: tri, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "turkey: smy: to: aeg, type: move, result: succeeds, result_reason: attack strength is greater",
+        "turkey: rum: to: gal, type: move, result: succeeds, result_reason: attack strength is greater",
+        "turkey: ion: to: adr, type: move, result: succeeds, result_reason: attack strength is greater",
+        "turkey: gre: to: alb, type: move, result: succeeds, result_reason: attack strength is greater",
+        "turkey: eas: to: ion, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "turkey: bla: to: con, type: move, result: succeeds, result_reason: attack strength is greater"
+    ],
+    "Russia": [
+        "russia: pru: to: sil, result_reason: disrupted, type: support, result: fails, from: war",
+        "russia: gal: to: vie, type: move, result: succeeds, result_reason: attack strength is greater",
+        "russia: bot: to: bal, type: move, result: succeeds, result_reason: attack strength is greater",
+        "russia: war: to: sil, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "russia: bud: to: vie, result_reason: neither displaced nor disrupted, type: support, result: succeeds, from: gal"
+    ],
+    "England": [
+        "england: wal: to: lvp, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "england: lon: to: yor, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "england: edi: to: yor, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength"
+    ],
+    "France": [
+        "france: mar: to: lyo, type: move, result: succeeds, result_reason: attack strength is greater",
+        "france: rom: to: nap, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "france: bel: to: yor, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "france: nth: to: yor, result_reason: unchallenged, type: convoy, result: succeeds, from: bel",
+        "france: nao: to: lvp, type: move, result: succeeds, result_reason: attack strength is greater",
+        "france: iri: to: lvp, result_reason: unchallenged, type: support, result: succeeds, from: nao",
+        "france: nap: to: ion, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "france: ven: type: hold, result: succeeds, result_reason: unchallenged",
+        "france: bre: to: eng, type: move, result: succeeds, result_reason: attack strength is greater",
+        "france: tys: to: tun, type: move, result: succeeds, result_reason: attack strength is greater"
+    ]
+}

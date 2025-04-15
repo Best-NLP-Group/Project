@@ -50,7 +50,11 @@ for i in range(1, 13):
     FILES = sorted(FILES, key=lambda x: (int(x.split("_")[1]), ORDER.index(x.split("_")[2].split(".")[0])))
     with open("map.json", 'r') as f:
         curr_map = json.load(f)
-    for FILE in FILES:
+        with open("moves_map/" + FILES[0], 'w') as f:
+            json.dump(curr_map, f, indent=4)
+    for i, FILE in enumerate(FILES):
         curr_map = move_resolution(os.path.join("moves", FILE), curr_map)
-        with open("moves_map/" + FILE, 'w') as f:
+        if i == len(FILES) - 1:
+            break
+        with open("moves_map/" + FILES[i+1], 'w') as f:
             json.dump(curr_map, f, indent=4)

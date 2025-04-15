@@ -1,0 +1,23 @@
+{
+    "Austria": [
+        "austria: none"
+    ],
+    "Germany": [
+        "germany: none"
+    ],
+    "Italy": [
+        "italy: none"
+    ],
+    "Turkey": [
+        "turkey: none"
+    ],
+    "Russia": [
+        "russia: none"
+    ],
+    "England": [
+        "england: none"
+    ],
+    "France": [
+        "france: none"
+    ]
+}

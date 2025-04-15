@@ -1,0 +1,50 @@
+{
+    "Austria": [
+        "austria: eas: to: aeg, result_reason: invalid order, type: support, result: fails, from: ion",
+        "austria: alb: to: ser, type: move, result: succeeds, result_reason: attack strength is greater",
+        "austria: bud: to: ser, result_reason: unchallenged, type: support, result: succeeds, from: alb"
+    ],
+    "Germany": [
+        "germany: ber: from: kie, type: support, result: fails, result_reason: disrupted",
+        "germany: hol: from: kie, type: support, result: succeeds, result_reason: unchallenged",
+        "germany: mun: from: ber, type: support, result: fails, result_reason: disrupted",
+        "germany: kie: from: ber, type: support, result: succeeds, result_reason: unchallenged"
+    ],
+    "Italy": [
+        "italy: ion: type: hold, result: succeeds, result_reason: unchallenged",
+        "italy: adr: type: hold, result: succeeds, result_reason: unchallenged",
+        "italy: arm: type: hold, result: succeeds, result_reason: unchallenged",
+        "italy: tyr: type: hold, result: succeeds, result_reason: unchallenged"
+    ],
+    "Turkey": [
+        "turkey: ank: from: smy, type: support, result: succeeds, result_reason: unchallenged",
+        "turkey: gre: from: bul, type: support, result: succeeds, result_reason: unchallenged",
+        "turkey: bul: from: gre, type: support, result: fails, result_reason: disrupted",
+        "turkey: smy: type: hold, result: succeeds, result_reason: unchallenged",
+        "turkey: con: from: ank, type: support, result: succeeds, result_reason: unchallenged"
+    ],
+    "Russia": [
+        "russia: pru: to: ber, result_reason: unchallenged, type: support, result: succeeds, from: sil",
+        "russia: rum: to: bul, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "russia: bot: to: swe, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "russia: boh: to: mun, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "russia: bal: to: kie, result_reason: invalid order, type: support, result: fails, from: den",
+        "russia: bla: to: bul, result_reason: unchallenged, type: support, result: succeeds, from: rum",
+        "russia: sil: to: ber, type: move, result: fails, result_reason: attack strength is not greater than the defend strength"
+    ],
+    "England": [
+        "england: nth: to: lon, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "england: lon: to: wal, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "england: cly: from: lvp, type: support, result: succeeds, result_reason: unchallenged",
+        "england: den: to: swe, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "england: lvp: type: hold, result: succeeds, result_reason: stronger defense"
+    ],
+    "France": [
+        "france: bel: from: hol, type: support, result: succeeds, result_reason: unchallenged",
+        "france: eng: to: wal, result_reason: unchallenged, type: convoy, result: succeeds, from: bre",
+        "france: bur: from: mun, type: support, result: succeeds, result_reason: unchallenged",
+        "france: nao: to: lvp, type: move, result: fails, result_reason: attack strength is not greater than the defend strength",
+        "france: iri: from: eng, type: support, result: succeeds, result_reason: unchallenged",
+        "france: bre: to: wal, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength"
+    ]
+}

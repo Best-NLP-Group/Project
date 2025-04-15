@@ -1,0 +1,38 @@
+{
+    "Austria": [
+        "austria: alb: to: gre, type: move, result: succeeds, result_reason: attack strength is greater",
+        "austria: ser: to: rum, result_reason: unchallenged, type: support, result: succeeds, from: ukr",
+        "austria: vie: to: gal, type: move, result: succeeds, result_reason: attack strength is greater"
+    ],
+    "Germany": [
+        "germany: ruh: to: hol, type: move, result: succeeds, result_reason: attack strength is greater",
+        "germany: mun: to: bur, type: move, result: succeeds, result_reason: attack strength is greater",
+        "germany: den: to: swe, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength"
+    ],
+    "Italy": [
+        "italy: ven: type: hold, result: succeeds, result_reason: unchallenged",
+        "italy: ion: to: tun, result_reason: unchallenged, type: convoy, result: succeeds, from: apu",
+        "italy: apu: to: tun, type: move, result: succeeds, result_reason: attack strength is greater"
+    ],
+    "Turkey": [
+        "turkey: ank: type: hold, result: succeeds, result_reason: unchallenged",
+        "turkey: bul: type: hold, result: succeeds, result_reason: unchallenged",
+        "turkey: con: type: hold, result: succeeds, result_reason: unchallenged"
+    ],
+    "Russia": [
+        "russia: sev: to: bla, type: move, result: succeeds, result_reason: attack strength is greater",
+        "russia: bot: to: swe, type: move, result: fails, result_reason: attack strength is not greater than the prevent strength",
+        "russia: ukr: to: rum, type: move, result: succeeds, result_reason: attack strength is greater",
+        "russia: war: to: bud, type: move, result: fails, result_reason: invalid move path"
+    ],
+    "England": [
+        "england: nth: to: nwy, type: move, result: succeeds, result_reason: attack strength is greater",
+        "england: wal: to: bel, type: move, result: succeeds, result_reason: attack strength is greater",
+        "england: eng: to: bel, result_reason: unchallenged, type: convoy, result: succeeds, from: wal"
+    ],
+    "France": [
+        "france: pic: to: bre, type: move, result: succeeds, result_reason: attack strength is greater",
+        "france: pie: to: mar, type: move, result: succeeds, result_reason: attack strength is greater",
+        "france: mao: to_coast: sc, to: spa, type: move, result: succeeds, result_reason: attack strength is greater"
+    ]
+}
